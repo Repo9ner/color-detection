@@ -8,7 +8,7 @@ from tkinter import ttk
 from ttkthemes import ThemedTk
 
 # Create a modern-themed window
-window = ThemedTk(theme="radiance")  # Choose a theme ("arc", "blue", "black", "radiance", etc.)
+window = ThemedTk(theme="radiance")  
 window.title("Image Color Detector")
 
 # Function to open and process an image
