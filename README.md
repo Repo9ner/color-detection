@@ -4,12 +4,12 @@ A beginner-friendly Python program that detects the dominant colors in an image 
 
  # Table of Contents
 
-- [Introduction]
-- [Features]
-- [Getting Started]
-- [Usage]
-- [Contributing]
-- [License]
+- Introduction
+- Features
+- Getting Started
+- Usage
+- Contributing
+- License
 
 # Introduction
 
